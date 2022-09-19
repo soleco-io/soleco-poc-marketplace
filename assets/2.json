@@ -1,0 +1,14 @@
+{
+  "name": "SolEco-POC-3",
+  "symbol": "SEP3",
+  "image": "2.png",
+  "properties": {
+    "files": [{ "url": "2.png", "type": "image/png" }],
+    "creators": [
+      {
+        "address": "HvmLSuQPj43tzWiXS5uj5LeMB43hHtu1KPx7ySK4hZYn",
+        "share": 100
+      }
+    ]
+  }
+}
